@@ -18,7 +18,7 @@ You can click on the outline on the left side to quickly jump to the Chapter you
 
 This is the main interface of Deliver Duo.
 
-![figure0](figure0.png)
+![figure0](figure0.png) <br>
 **Figure 1.1: Functionalities of buttons**
 
 
@@ -35,7 +35,7 @@ Live traffic is available for many popular western cities, but is currently unav
 
 Traffic jam will be shown as red solid lines on the map (Figure 4).
 
-![figure4](figure4.png)
+![figure4](figure4.png) <br>
 **Figure 3.1: Traffic jam shown as red solid lines**
 
 
@@ -68,7 +68,7 @@ The search box provide **autocomplete** feature.
 
 An example use is provided below:
 
-![figure6](figure6.gif)
+![figure6](figure6.gif) <br>
 **Figure 5.1: Search an intersection by 2 street names**
 
 
@@ -78,17 +78,17 @@ An example use is provided below:
 To use navigation, you should set a start point and a destination on the map. 
 Zoom in and click on an intersection on the map to select a start point, and click on another intersection as the destination. The selected intersection will display a red dot on it (Figure 1). 
 
-![figure1](figure1.png)
+![figure1](figure1.png) <br>
 **Figure 6.1: Red dot for selected point**
 
 Once you select, a clear, fast route will be displayed (Figure 2).
 
-![figure2](figure2.png)
+![figure2](figure2.png) <br>
 **Figure 6.2: Navigation route**
 
 Now, click on the “Directions” button on the right side, the travel direction text will display (Figure 3).
 
-![figure3](figure3.jpg)
+![figure3](figure3.jpg) <br>
 **Figure 6.3: Travel Direction Text Window**
 
 
@@ -103,7 +103,7 @@ To cancel a selected route, randomly select another intersection, this will auto
 
 Example use:
 
-![figure5](figure5.gif)
+![figure5](figure5.gif) <br>
 **Figure 6.4: Example Use of Nevigation**
 
 

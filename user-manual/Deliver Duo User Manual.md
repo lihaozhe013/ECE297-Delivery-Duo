@@ -75,7 +75,10 @@ An example use is provided below:
 
 ### 6. How to use the **Navigation** feature
 
-To use navigation, you should set a start point and a destination on the map. 
+To use navigation, you should set a start point and a destination on the map. There are 2 ways to select start point and destination point.
+
+#### 1. Select by clicking on intersections on the map canvas
+
 Zoom in and click on an intersection on the map to select a start point, and click on another intersection as the destination. The selected intersection will display a red dot on it (Figure 1). 
 
 ![figure1](figure1.png) <br>
@@ -106,7 +109,9 @@ Example use:
 ![figure5](figure5.gif) <br>
 **Figure 6.4: Example Use of Nevigation**
 
+#### 2. Select by using the search box
 
+If you wanna select a intersection by searching, the search box will help.
 
 ## About
 

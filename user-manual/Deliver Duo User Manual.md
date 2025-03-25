@@ -2,13 +2,36 @@
 
 Hi! This is **Delivery Duo**, the best helper for delivery drivers!
 
-You can click on the outline on the left side to quickly jump to the Chapter you are looking for.
+You can click on the outline below to quickly jump to the Chapter you are looking for.
+
+
+
+# Table of Content
+
+[Introduction](#introduction)
+
+[Features](#features)
+
+1. [Main Interface](#1-main-interface)
+2. [Dark Mode](#2-dark-mode)
+3. [Live Traffic](#3-live-traffic)
+4. [Zoom in, Zoom out and Move](#4-zoom-in-zoom-out-and-move)
+5. [How to search an intersection?](#5-how-to-search-an-intersection)
+6. [How to use the Navigation feature](#6-how-to-use-the-navigation-feature)
+
+[About](#about)
 
 
 
 ## Introduction
 
-**Delivery Duo** is a GIS software based on GTK3 and C++, support users to import map data by themselves, the map can directly load and display map data!
+**Delivery Duo** is a GIS software based on GTK3 and C++, aim to help delivery guys have better navigation experience.
+
+Delivery Duo supports users to import map data in `.bin` file by themselves, the map can directly load and display map data. So, if you can't find a specific map in the map list, you can import the data by yourself.
+
+[Go Back To Table of Content](#table-of-content)
+
+
 
 
 
@@ -21,11 +44,15 @@ This is the main interface of Deliver Duo.
 ![figure0](figure0.png) <br>
 **Figure 1.1: Functionalities of buttons**
 
+[Go Back To Table of Content](#table-of-content)
+
 
 
 ### 2. Dark Mode
 
 To toggle dark mode, click on “Toggle Dark Mode” button on the right panel to turn on, click again to turn off.
+
+[Go Back To Table of Content](#table-of-content)
 
 
 
@@ -38,11 +65,13 @@ Traffic jam will be shown as red solid lines on the map (Figure 4).
 ![figure4](figure4.png) <br>
 **Figure 3.1: Traffic jam shown as red solid lines**
 
-
+[Go Back To Table of Content](#table-of-content)
 
 **Notes for live traffic data:**
 
 Our live traffic data is obtained from TomTom platform: https://www.tomtom.com. Real-time data may deviate from the actual situation, and the platform does not provide data for most Asian cities. We are not responsible for data errors.
+
+[Go Back To Table of Content](#table-of-content)
 
 
 
@@ -53,6 +82,8 @@ To move on Delivery Duo, simply hold mouse 1 and drag the canvas of on the left 
 To zoom in or zoom out, simply put the cursor on the canvas and scroll up and down, or click the ‘Zoom In’ and ‘Zoom Out’ button on the right side.
 
 To reset zoom level, click on ‘Zoom Fit’ on the right side.
+
+[Go Back To Table of Content](#table-of-content)
 
 
 
@@ -70,6 +101,8 @@ An example use is provided below:
 
 ![figure6](figure6.gif) <br>
 **Figure 5.1: Search an intersection by 2 street names**
+
+[Go Back To Table of Content](#table-of-content)
 
 
 
@@ -113,6 +146,17 @@ Example use:
 
 If you wanna select a intersection by searching, the search box will help.
 
+
+
+[Go Back To Table of Content](#table-of-content)
+
+
+
+
+
 ## About
 
 Delivery Duo is the **BEST** GIS Software in the universe, yes, it's the best, there's no acceptance of disagreement.
+
+[Go Back To Table of Content](#table-of-content)
+

@@ -4,24 +4,24 @@ Hi! This is **Delivery Duo**, the best helper for delivery drivers!
 
 You can click on the outline below to quickly jump to the Chapter you are looking for.
 
-
+<br>
 
 # Table of Content
+- [Deliver Duo User Manual](#deliver-duo-user-manual)
+- [Table of Content](#table-of-content)
+  - [Introduction](#introduction)
+  - [Features](#features)
+    - [1. Main Interface](#1-main-interface)
+    - [2. Dark Mode](#2-dark-mode)
+    - [3. Live Traffic](#3-live-traffic)
+    - [4. Zoom in, Zoom out and Move](#4-zoom-in-zoom-out-and-move)
+    - [5. How to search an intersection?](#5-how-to-search-an-intersection)
+    - [6. How to use the **Navigation** feature](#6-how-to-use-the-navigation-feature)
+      - [1. Select by clicking on intersections on the map canvas](#1-select-by-clicking-on-intersections-on-the-map-canvas)
+      - [2. Select by using the search box](#2-select-by-using-the-search-box)
+  - [About](#about)
 
-[Introduction](#introduction)
-
-[Features](#features)
-
-1. [Main Interface](#1-main-interface)
-2. [Dark Mode](#2-dark-mode)
-3. [Live Traffic](#3-live-traffic)
-4. [Zoom in, Zoom out and Move](#4-zoom-in-zoom-out-and-move)
-5. [How to search an intersection?](#5-how-to-search-an-intersection)
-6. [How to use the Navigation feature](#6-how-to-use-the-navigation-feature)
-
-[About](#about)
-
-
+<br>
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Delivery Duo supports users to import map data in `.bin` file by themselves, the
 
 [Go Back To Table of Content](#table-of-content)
 
-
+<br>
 
 
 
@@ -46,7 +46,7 @@ This is the main interface of Deliver Duo.
 
 [Go Back To Table of Content](#table-of-content)
 
-
+<br>
 
 ### 2. Dark Mode
 
@@ -54,7 +54,7 @@ To toggle dark mode, click on “Toggle Dark Mode” button on the right panel t
 
 [Go Back To Table of Content](#table-of-content)
 
-
+<br>
 
 ### 3. Live Traffic
 
@@ -67,13 +67,15 @@ Traffic jam will be shown as red solid lines on the map (Figure 4).
 
 [Go Back To Table of Content](#table-of-content)
 
+<br>
+
 **Notes for live traffic data:**
 
 Our live traffic data is obtained from TomTom platform: https://www.tomtom.com. Real-time data may deviate from the actual situation, and the platform does not provide data for most Asian cities. We are not responsible for data errors.
 
 [Go Back To Table of Content](#table-of-content)
 
-
+<br>
 
 ### 4. Zoom in, Zoom out and Move
 
@@ -85,7 +87,7 @@ To reset zoom level, click on ‘Zoom Fit’ on the right side.
 
 [Go Back To Table of Content](#table-of-content)
 
-
+<br>
 
 ### 5. How to search an intersection?
 
@@ -93,7 +95,7 @@ If you wanna find an intersection by 2 street names, use the search boxes on the
 
 Enter the name of two streets into the search box, and press enter, the map will automatically zoom in to the intersection you searched.
 
-
+<br>
 
 The search box provide **autocomplete** feature. 
 
@@ -104,7 +106,7 @@ An example use is provided below:
 
 [Go Back To Table of Content](#table-of-content)
 
-
+<br>
 
 ### 6. How to use the **Navigation** feature
 
@@ -151,7 +153,7 @@ If you wanna select a intersection by searching, the search box will help.
 [Go Back To Table of Content](#table-of-content)
 
 
-
+<br>
 
 
 ## About
@@ -160,3 +162,4 @@ Delivery Duo is the **BEST** GIS Software in the universe, yes, it's the best, t
 
 [Go Back To Table of Content](#table-of-content)
 
+<br>

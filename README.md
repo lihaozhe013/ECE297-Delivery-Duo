@@ -41,7 +41,7 @@ Delivery Duo supports users to import map data in `.bin` file by themselves, the
 
 This is the main interface of Deliver Duo.
 
-![figure0](figure0.png) <br>
+![figure0](user-manual/figure0.png) <br>
 **Figure 1.1: Functionalities of buttons**
 
 [Go Back To Table of Content](#table-of-content)
@@ -62,7 +62,7 @@ Live traffic is available for many popular western cities, but is currently unav
 
 Traffic jam will be shown as red solid lines on the map (Figure 4).
 
-![figure4](figure4.png) <br>
+![figure4](user-manual/figure4.png) <br>
 **Figure 3.1: Traffic jam shown as red solid lines**
 
 [Go Back To Table of Content](#table-of-content)
@@ -101,7 +101,7 @@ The search box provide **autocomplete** feature.
 
 An example use is provided below:
 
-![figure6](figure6.gif) <br>
+![figure6](user-manual/figure6.gif) <br>
 **Figure 5.1: Search an intersection by 2 street names**
 
 [Go Back To Table of Content](#table-of-content)
@@ -116,17 +116,17 @@ To use navigation, you should set a start point and a destination on the map. Th
 
 Zoom in and click on an intersection on the map to select a start point, and click on another intersection as the destination. The selected intersection will display a red dot on it (Figure 1). 
 
-![figure1](figure1.png) <br>
+![figure1](user-manual/figure1.png) <br>
 **Figure 6.1: Red dot for selected point**
 
 Once you select, a clear, fast route will be displayed (Figure 2).
 
-![figure2](figure2.png) <br>
+![figure2](user-manual/figure2.png) <br>
 **Figure 6.2: Navigation route**
 
 Now, click on the “Directions” button on the right side, the travel direction text will display (Figure 3).
 
-![figure3](figure3.jpg) <br>
+![figure3](user-manual/figure3.jpg) <br>
 **Figure 6.3: Travel Direction Text Window**
 
 
@@ -141,7 +141,7 @@ To cancel a selected route, randomly select another intersection, this will auto
 
 Example use:
 
-![figure5](figure5.gif) <br>
+![figure5](user-manual/figure5.gif) <br>
 **Figure 6.4: Example Use of Navigation**
 
 #### 2. Select by using the search box
@@ -151,7 +151,7 @@ streets and hitting the enter key for each intersection in the provided search b
 
 A demonstration is shown below in Figure 7:
 
-![figure7](figure7.gif) <br>
+![figure7](user-manual/figure7.gif) <br>
 **Figure 6.5: Demonstration of Search-based Path-finding**
 
 It should be noted that the click and search-based methods of selecting intersections for path-finding can be mixed - that is, a user can click on one intersection to set it as the starting point and search for another (by entering the two street names that form it) to select it as the destination, and vice versa.

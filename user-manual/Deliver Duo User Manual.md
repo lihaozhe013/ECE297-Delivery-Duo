@@ -142,11 +142,19 @@ To cancel a selected route, randomly select another intersection, this will auto
 Example use:
 
 ![figure5](figure5.gif) <br>
-**Figure 6.4: Example Use of Nevigation**
+**Figure 6.4: Example Use of Navigation**
 
 #### 2. Select by using the search box
 
-If you wanna select a intersection by searching, the search box will help.
+You may select intersections to path-find between by entering the names of two
+streets and hitting the enter key for each intersection in the provided search boxes.
+
+A demonstration is shown below in Figure 7:
+
+![figure7](figure7.gif) <br>
+**Figure 6.5: Demonstration of Search-based Path-finding**
+
+It should be noted that the click and search-based methods of selecting intersections for path-finding can be mixed - that is, a user can click on one intersection to set it as the starting point and search for another (by entering the two street names that form it) to select it as the destination, and vice versa.
 
 
 

@@ -47,16 +47,9 @@ Traffic jam will be shown as red solid lines on the map (Figure 4).
 
 ![3](3.png) <br>
 
-
 **Figure 3: Traffic jam shown as red solid lines**
 
-
-<br>
-
-**Notes for live traffic data:**
-
-Our live traffic data is obtained from TomTom platform: https://www.tomtom.com. Real-time data may deviate from the actual situation, and the platform does not provide data for most Asian cities. We are not responsible for data errors.
-
+> Note: Our live traffic data is obtained from TomTom platform: https://www.tomtom.com. Real-time data may deviate from the actual situation, and the platform does not provide data for most Asian cities. We are not responsible for data errors.
 
 <br>
 
@@ -69,7 +62,6 @@ To zoom in or zoom out, simply put the cursor on the canvas and scroll up and do
 To reset zoom level, click on `Zoom Fit` on the right side.
 
 > Note: Minor roads and POIs are hidden automatically in low zoom level, to see detailed street names and POI names, zoom in to high zoom level.
-
 
 <br>
 
@@ -122,10 +114,8 @@ Now, click on the “Directions” button on the right side, the travel directio
 
 
 
-**Notes for cancel selecting points:**
-
+> **Note:**
 To cancel a selected point, just click the red dot again to deselect. 
-
 To cancel a selected route, randomly select another intersection, this will automatically cancel the display of route.
 
 

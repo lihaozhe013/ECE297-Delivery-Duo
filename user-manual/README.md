@@ -126,10 +126,3 @@ Example use:
 **Figure 6.4: Example Use of Navigation**
 
 <br>
-
-
-## About
-
-Delivery Duo is the **BEST** GIS Software in the universe, yes, it's the best, there's no acceptance of disagreement.
-
-<br>

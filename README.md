@@ -17,4 +17,4 @@
 ![](original-pic/Slide17.PNG)
 ![](original-pic/Slide18.PNG)
 ![](original-pic/Slide19.PNG)
-![](original-pic/Slide1.PNG)
+

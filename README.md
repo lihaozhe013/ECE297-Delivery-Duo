@@ -4,7 +4,7 @@
 ![](original-pic/Slide4.PNG)
 ![](original-pic/Slide5.PNG)
 ![](original-pic/Slide6.PNG)
-![](original-pic/Slide7.gif)
+![](original-pic/Picture2.gif)
 ![](original-pic/Slide8.PNG)
 ![](original-pic/Slide9.PNG)
 ![](original-pic/Slide10.PNG)
@@ -15,6 +15,5 @@
 ![](original-pic/Slide15.PNG)
 ![](original-pic/Slide16.PNG)
 ![](original-pic/Slide17.PNG)
-![](original-pic/Slide18.PNG)
-![](original-pic/Slide19.PNG)
+
 
